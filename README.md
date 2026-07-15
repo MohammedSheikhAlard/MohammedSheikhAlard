@@ -60,24 +60,6 @@ Desktop management system for driver and vehicle licenses.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://vercel.app" alt="Mohammed's GitHub Stats" />
-</p>
-
-<p align="center">
- 
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-
-  <img src="https://vercel.app" alt="Most Used Languages" />
-</p>
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
