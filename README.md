@@ -38,22 +38,22 @@ I'm a passionate Backend Developer specializing in building scalable RESTful API
 
 ### 🚀 Featured Projects
 
-#### ⚡ [High-Performance E-Commerce Engine](https://github.com/MohammedSheikhAlard/ParallelProgrammingProject)
+#### ⚡ [High-Performance E-Commerce Engine](https://github.com/MohammedSheikhAlard/Project.ParallelProgramming)
 A concurrent e-commerce backend handling 100+ simultaneous users with zero data loss.
 - **Tech:** .NET Core, C#, Clean Architecture, Channel<T>, SemaphoreSlim
 - **Features:** ACID transactions, async queues, distributed caching, load balancing, stress testing with k6
 
-#### 💪 [Home Workout RESTful API](https://github.com/MohammedSheikhAlard/home-workout-api)
+#### 💪 [Home Workout RESTful API](https://github.com/MohammedSheikhAlard/HomeWorkout_BackEnd)
 Scalable backend API for workout management with secure authentication.
 - **Tech:** Laravel, PHP, MySQL, Laravel Sanctum
 - **Features:** User authentication, workout plans, progress tracking
 
-#### 🛒 [E-Commerce Store API](https://github.com/MohammedSheikhAlard/store-api)
+#### 🛒 [E-Commerce Store API](https://github.com/MohammedSheikhAlard/StoreProject_BackEnd)
 Complete backend system for online store with role-based access control.
 - **Tech:** Laravel, PHP, MySQL, JWT
 - **Features:** Product catalog, cart management, order processing
 
-#### 🚗 [DVLD System](https://github.com/MohammedSheikhAlard/dvld-system)
+#### 🚗 [DVLD System](https://github.com/MohammedSheikhAlard/DVLD_Full_Project)
 Desktop management system for driver and vehicle licenses.
 - **Tech:** C#, .NET Framework, SQL Server, 3-Tier Architecture
 - **Features:** License management, RBAC, audit trails
