@@ -63,16 +63,18 @@ Desktop management system for driver and vehicle licenses.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedSheikhAlard&theme=radical" alt="Profile Details" />
+  
+  <img src="https://vercel.app" alt="Mohammed's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedSheikhAlard&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+ 
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedSheikhAlard&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedSheikhAlard&theme=radical" alt="Most Commit Language" />
+
+  <img src="https://vercel.app" alt="Most Used Languages" />
 </p>
 ---
 
