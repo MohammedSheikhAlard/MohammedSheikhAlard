@@ -2,7 +2,7 @@
 
 #### Junior .NET Backend Developer | ASP.NET Core | Clean Architecture | DDD | SOLID
 
-I'm a passionate Backend Developer specializing in building scalable RESTful APIs using **.NET Core** and **Laravel**. Currently in my <sup>5</sup>th year of Software Engineering at Damascus University, with hands-on experience in designing maintainable systems using Clean Architecture, Domain-Driven Design, and SOLID principles.
+I'm a passionate Backend Developer specializing in building scalable RESTful APIs using **.NET Core** and **Laravel**. Currently in my final year of Software Engineering at Damascus University, with hands-on experience in designing maintainable systems using Clean Architecture, Domain-Driven Design, and SOLID principles.
 
 ---
 
